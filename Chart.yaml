@@ -1,6 +1,6 @@
 apiVersion: v2
 name: chartPrueba1
-description: A Helm chart for Kubernetes
+description: Chart de Fer
 
 # A chart can be either an 'application' or a 'library' chart.
 #
